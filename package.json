@@ -1,0 +1,18 @@
+{
+  "name": "temp-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@iota/identity-wasm": "^1.0.0-rc.1",
+    "@noble/ed25519": "^1.7.3",
+    "@types/node-fetch": "^2.6.2",
+    "node-fetch": "^2.6.7",
+    "@iota/sdk": "^1.0.5"
+  }
+}
